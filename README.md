@@ -36,7 +36,7 @@ Built for scientific research advancement.
  - Peer Reviewed Research repository (in development)
  - Co-authorship network
  - Neo4j Graph Database Analysis
- - 
+   
  Research focus:
  - Academic research synthesis
  - Financial market analysis
