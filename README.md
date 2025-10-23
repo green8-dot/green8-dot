@@ -31,11 +31,12 @@ Web scraping and NLP processing for research intelligence.
 Built for scientific research advancement.
 
  System capabilities:
- - Live market intelligence dashboard (real-time API feeds)(in dev.)
- - Custom data analysis services (financial, data, file processing)
+ - Custom data analysis (financial, data, file processing)
  - Automated research support
- - Research report repository (in development)
-
+ - Peer Reviewed Research repository (in development)
+ - Co-authorship network
+ - Neo4j Graph Database Analysis
+ - 
  Research focus:
  - Academic research synthesis
  - Financial market analysis
