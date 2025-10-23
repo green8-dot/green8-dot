@@ -6,7 +6,7 @@ Data Analytics student. Building ML projects focused in research.
 
 ## Projects
 
-**[arXiv Multi-Label Classification](https://github.com/green8-dot/arxiv-multilabel-classification)**
+**[arXiv Multi-Label Classification for CS category only](https://github.com/green8-dot/arxiv-multilabel-classification)**
 94.26% F1 across 8 CS categories. Hybrid SciBERT + GraphSAGE architecture.
 - Model-corrected labels technique (+19pp over baseline)
 - 31K papers, citation + co-authorship graphs
