@@ -18,7 +18,7 @@ Identified 182 mislabeled papers (3.5% error rate) in arXiv dataset.
 - 96% detection accuracy
 - Improves downstream classifiers by 3-5pp
 
-  [Research Synthesis Engine](https://github.com/green8-dot/research-synthesis-engine)
+[Research Synthesis Engine](https://github.com/green8-dot/research-synthesis-engine)
 Web scraping and NLP processing for research intelligence.
 - Multi-source web scraping (Scrapy spiders)
 - NLP text processing (spaCy, transformers)
