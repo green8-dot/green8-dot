@@ -28,7 +28,7 @@ Web scraping and NLP processing for research intelligence.
   
 ---
 ## OrbitScope Research Engine
-    Built for scientific research advancement.
+Built for scientific research advancement.
 
  System capabilities:
  - Live market intelligence dashboard (real-time API feeds)(in dev.)
