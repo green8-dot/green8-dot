@@ -1,6 +1,6 @@
 # Derek Green
 
-Data Analytics student. Building ML projects.
+Data Analytics student. Building ML projects focused in research.
 
 ---
 
