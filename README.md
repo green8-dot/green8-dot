@@ -27,13 +27,27 @@ Web scraping and NLP processing for research intelligence.
 - Research entity extraction
   
 ---
+## OrbitScope Research Engine
+    Built for scientific research advancement.
 
-## Technical Skills
+ System capabilities:
+ - Live market intelligence dashboard (real-time API feeds)(in dev.)
+ - Custom data analysis services (financial, data, file processing)
+ - Automated research support
+ - Research report repository (in development)
 
-**Languages:** Python, SQL
-**ML/Data:** PyTorch, scikit-learn, pandas, NumPy
-**Tools:** Docker, Git, Linux
+ Research focus:
+ - Academic research synthesis
+ - Financial market analysis
+ - Space industry and orbital analytics
+ - Healthcare sector analysis
 
+ Technical stack:
+- ML: PyTorch Lightning, SciBERT, GraphSAGE GNN (94.71% F1)
+- Data: Neo4j graph DB (31K+ papers), MongoDB, SQL, Redis caching
+- Training: GPU-optimized (mixed precision fp16), checkpoint recovery
+- Processing: Real-time APIs, automated preprocessing pipelines
+- Classification: 18+ domain-specific models, evidence synthesis engine(in dev)
 ---
 
 ## Current Work
