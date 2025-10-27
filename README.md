@@ -57,9 +57,4 @@ Scientific literature analysis using machine learning:
 **Infrastructure:** GPU training, mixed precision fp16, checkpoint recovery
 
 ---
-
-## Contact
-
-**GitHub:** [github.com/green8-dot](https://github.com/green8-dot)
 **Research:** [arxiv-research-intelligence](https://github.com/green8-dot/arxiv-research-intelligence)
-**Email:** derekgreen@orbitscope.io
