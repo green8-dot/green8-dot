@@ -62,8 +62,4 @@ Scientific literature analysis using machine learning:
 
 **GitHub:** [github.com/green8-dot](https://github.com/green8-dot)
 **Research:** [arxiv-research-intelligence](https://github.com/green8-dot/arxiv-research-intelligence)
-**Email:** derekg124@yahoo.com
-
----
-
-Research collaboration inquiries welcome.
+**Email:** derekgreen@orbitscope.io
