@@ -2,7 +2,7 @@
 
 <img src="orbitscope_logo.svg" width="64" height="64" alt="OrbitScope Logo">
 
-ML Researcher specializing in scientific document classification and knowledge graph systems.
+Researcher specializing in scientific document classification and knowledge graph systems.
 
 ---
 
